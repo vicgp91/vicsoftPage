@@ -120,7 +120,7 @@ function enviarMensaje(){
 							 <section id="cta" class="main special">
 								<header class="major">
 									<h2>Contáctanos</h2>
-									<p>.</p>
+									<p></p>
 									
 									
 									<form action="">
